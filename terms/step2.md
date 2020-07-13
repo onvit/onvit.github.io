@@ -10,7 +10,7 @@
   &nbsp;① 수집하는 개인정보 항목  
   &nbsp;이용자가 기본적인 서비스 이용을 위한 필수 정보와 이용자 각자의 기호와 필요에 맞는 서비스를 제공받기 위한 선택 정보를 입력해야 합니다.  
   &nbsp;(1) 회원  
-  ![screensh](https://onvit.github.io/termsImg01.png)
+  ![screensh](https://github.com/onvit/onvit.github.io/blob/master/termsImg01.png)
 
 
 
