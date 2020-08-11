@@ -12,7 +12,7 @@
  
 ![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/blog/additionalFunction.png)  
 
-&nbsp;5. **[4. 다른 보험사 전달]**을 선택한다.  
+&nbsp;5. **[4. 다른 보험사 전달하기]**를 선택한다.  
 &nbsp;6. 다른 보험사 선택 및 비어있는 칸을 추가적으로 작성한다.  
   
 **[자주 하는 질문]**  
