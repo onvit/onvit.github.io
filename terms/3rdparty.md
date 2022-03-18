@@ -4,4 +4,4 @@
 
 ![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg07.png)
 
- 이 동의는 "보험금 청구하기" 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 경우 "보험금 청구하기" 서비스를 이용하실 수 없습니다.
+ 이 동의는 "병원서류 대리발급" 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 경우 "병원서류 대리발급" 서비스를 이용하실 수 없습니다.
