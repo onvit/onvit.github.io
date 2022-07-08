@@ -5,3 +5,47 @@
 ![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg08.png)
 
  이 동의는 "보험 보장분석 및 보험금청구 대행" 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 경우 "보험 보장분석 및 보험금청구 대행" 서비스를 이용하실 수 없습니다.
+
+## **I. 개인(신용)정보 처리**
+
+* [수집, 이용에 관한 사항](https://jumpy-ranunculus-cec.notion.site/1-f3964e69944240a19a496ff00e7b64d5)
+  
+* [제공에 관한 사항](https://jumpy-ranunculus-cec.notion.site/2-5560d710cb0145688dbb28c07a38f2dc)
+
+* [개인(신용)정보](https://jumpy-ranunculus-cec.notion.site/3-251ef766ffae42688c20d86e7ad4d96c)
+
+
+## **II. 전자금융거래 이용약관**
+
+* [전자금융거래 이용약관 동의](https://jumpy-ranunculus-cec.notion.site/7b768bd867044722a019d07a4724378d)
+
+
+## **III. 휴대폰 인증을 위한 개인정보 처리 동의**
+
+**1. 개인정보 이용 및 제공 동의**
+
+* [나이스 평가정보원](https://jumpy-ranunculus-cec.notion.site/NICE-4097b8144db6465686a5b3b9e2a0f937)
+
+* [KCB](https://jumpy-ranunculus-cec.notion.site/NICE-4097b8144db6465686a5b3b9e2a0f937)
+
+**2. 고유식별정보 처리 동의**
+
+* [나이스 평가정보원](https://jumpy-ranunculus-cec.notion.site/NICE-b4228c4bc50149af889c1af20ec08c8e)
+
+* [KCB](https://jumpy-ranunculus-cec.notion.site/KCB-d084005f0c4e4e79ac53daa11521a2b3)
+
+
+**3. 통신사 이용약관 동의**
+
+* [SKT](https://jumpy-ranunculus-cec.notion.site/SKT-6be43358619540bc9aaf55f6654f72f4)
+
+* [KT](https://jumpy-ranunculus-cec.notion.site/KT-4404bc457df44446a75ab880522497c8)
+
+* [LGU+](https://jumpy-ranunculus-cec.notion.site/U-61e5c3ac77d441ddad3a8a7ca7407576)
+
+
+**4. 서비스 이용약관 동의**
+
+* [나이스 평가정보원](https://jumpy-ranunculus-cec.notion.site/NICE-f0f6d7d4b6aa44fe94628e088b1a61b6)
+
+* [KCB](https://jumpy-ranunculus-cec.notion.site/KDB-c4e8d689443a454b842f80c995da3c55)
