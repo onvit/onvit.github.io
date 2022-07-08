@@ -26,7 +26,7 @@
 
 * [나이스 평가정보원](https://jumpy-ranunculus-cec.notion.site/NICE-4097b8144db6465686a5b3b9e2a0f937)
 
-* [KCB](https://jumpy-ranunculus-cec.notion.site/NICE-4097b8144db6465686a5b3b9e2a0f937)
+* [KCB](https://jumpy-ranunculus-cec.notion.site/KCB-999cb13542ac41bcb48cacf4242aa182)
 
 **2. 고유식별정보 처리 동의**
 
