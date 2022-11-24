@@ -32,7 +32,7 @@
 
   ![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg03.png)
 
-  &nbsp;④ 개인정보 수집방법  
+  &nbsp;⑤ 개인정보 수집방법  
   &nbsp;&nbsp;회사는 다음과 같은 방법으로 개인정보를 수집합니다.  
   &nbsp;&nbsp;- 사용자 등록 및 서비스 이용 과정에서 회원이 개인정보 수집에 대해 동의하고 직접 입력하는 방법  
   &nbsp;&nbsp;- 이용자가 서비스 내에서 설문 응답 등을 통해 직접 입력하는 방법  
