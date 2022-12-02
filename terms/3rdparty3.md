@@ -4,7 +4,8 @@
 
 ![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg08.png)
 
- 이 동의는 "보험 보장분석 및 보험금청구 대행" 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 경우 "보험 보장분석 및 보험금청구 대행" 서비스를 이용하실 수 없습니다.
+ 이 동의는 "미래 건강 예측 건강검진 결과 분식 및 건강검진 사전점검" 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 경우 "미래 건강 예측 건강검진 결과 분식 및 건강검진 사전점검" 서비스를 이용하실 수 없습니다.
+
 
 ## **I. 개인(신용)정보 처리**
 
@@ -22,11 +23,13 @@
 
 ## **III. 휴대폰 인증을 위한 개인정보 처리 동의**
 
+
 **1. 개인정보 이용 및 제공 동의**
 
 * [나이스 평가정보원](https://jumpy-ranunculus-cec.notion.site/NICE-4097b8144db6465686a5b3b9e2a0f937)
 
 * [KCB](https://jumpy-ranunculus-cec.notion.site/KCB-999cb13542ac41bcb48cacf4242aa182)
+
 
 **2. 고유식별정보 처리 동의**
 
