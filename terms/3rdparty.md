@@ -1,8 +1,15 @@
 # 개인정보 제3자 제공 동의  
 
- ㈜온빛은 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제24조의2, 「신용정보의 이용 및 보호에 관한 법률」 제32조에 따라, 개인정보를 제3자에게 제공할 경우 본인의 동의를 얻어야 합니다. 이에 본인의 개인(신용)정보를 아래와 같이 제3자에게 제공하는 것에 동의합니다.  
+ ㈜온빛은 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제24조의2, 「신용정보의 이용 및 보호에 관한 법률」 제32조에 따라, 개인정보를 제3자에게 제공할 경우 본인의 동의를 얻어야 합니다. 이에 본인의 개인(신용)정보를 아래와 같이 제3자에게 제공하는 것에 동의합니다.     
 
-![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg10.png)
+#### 제공받는 자 : 엠알패스   
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg10-1.png)
 
+#### 제공받는 자 : 위더스올   
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg10-2.png)
+
+#### 제공받는 자 : 리치앤코, 인카(커넥트앤), 키움에셋플래너, GA코리아, 교보생명, 글로벌금융판매   
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg10-3.png)
+   
  이 동의는 “3년치 병원비 환급” 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 권리가 있습니다.   
 동의를 거부할 경우 “3년치 병원비 환급” 서비스를 제공을 받지 못하는 불이익이 있습니다.
