@@ -14,6 +14,14 @@
 #### 보유 및 이용 기간
 이용 후 삭제     
 
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg11-1.png)    
+제공받는 자 : 위더스올   
+   
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg11-2.png)    
+제공받는 자 : 키움에셋플래너    
+
+![Alt text](https://raw.githubusercontent.com/onvit/onvit.github.io/master/termsImg11-3.png)    
+제공받는 자 : 리치앤코, 인카(커넥트앤), GA코리아, 교보생명, 글로벌금융판매, 프라임에셋, 케이지에이에셋, 메가, 리더스금융판매, 엠금융서비스, 한국보험금융, 에이플러스에셋, 한국보험금융(주), 에이플러스에셋어드바이저, 피플라이프(주),유퍼스트보험마케팅(주),더블유에셋(주), (주)에즈금융서비스, 주식회사퍼스트에셋,(주)영진에셋, 디비금융서비스(주), 미래에셋금융서비스  
 
      
  이 동의는 “종합건강검진 예약” 서비스를 이용하기 위한 필수적인 동의이며, 동의를 거부할 권리가 있습니다.   
