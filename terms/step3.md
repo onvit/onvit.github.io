@@ -14,7 +14,7 @@
 제3자 제공에 동의한 개인정보는 경품 및 매체 비용의 공동 부담등을 위해 제휴사에 유상으로 제공됩니다.
 
 ![image](https://github.com/onvit/onvit.github.io/assets/66245401/98bc0159-16ff-4399-8204-e9166ff43765)
-![image](https://github.com/onvit/onvit.github.io/assets/66245401/61aa0c1e-0378-499d-abba-024f5c27bd86)
+![image](https://raw.githubusercontent.com/onvit/onvit.github.io/master/terms-step3Img.png)
 
 고객님은 동의를 거부하실 권리가 있습니다. 동의거부시에도 메디메디의 “보험금 청구하기”를 제외환 메디메디의 서비스는 전부 이용가능 하나 보험안내 및 상담은 제한될 수 있습니다.
 
