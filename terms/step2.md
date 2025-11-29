@@ -63,4 +63,4 @@
 
 
 
- 더 자세한 내용에 대해서는 * [온빛 개인정보처리방침](https://onvit.github.io/terms/step2) 을 참고하시기 바랍니다.
+ 더 자세한 내용에 대해서는 * [온빛 개인정보처리방침](https://onvit.github.io/terms/test) 을 참고하시기 바랍니다.
